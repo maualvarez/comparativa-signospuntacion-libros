@@ -1,7 +1,7 @@
 # comparativa signospuntacion libros
  En este notebook, hago una comparativa de los signos de puntuacion de los 3 libros más vendidos tanto por hombres como mujeres, mapeando cada grafo restante a un color 
  
-https://github.com/maualvarez/comparativa-signospuntacion-libros/blob/5f0d9f1c956a2fc73c9df6b1422904a46ea060aa/comparativa%20signos%20puntuacion.ipynb
+[Notebook del proyecto](https://github.com/maualvarez/comparativa-signospuntacion-libros/blob/5f0d9f1c956a2fc73c9df6b1422904a46ea060aa/comparativa%20signos%20puntuacion.ipynb)
 
 
 ![Captura](https://user-images.githubusercontent.com/83623808/147622004-975a6069-682e-4dfc-9359-ea79c65b915a.PNG)
